@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Bulk plugin updates",
+    "description": "Adds an Updates tab to the Plugins page with one button that updates every registry-installed plugin."
+  }
+}
